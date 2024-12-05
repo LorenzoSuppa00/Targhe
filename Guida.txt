@@ -1,0 +1,9 @@
+1) Installa VSC;
+2) Installa 3.8 <= Python <= 3.12;
+3) Apri VSC -> Ctrl + Maiusc + P -> Python Create Enviroment -> Venv -> Python 3.10;
+4) pip install ultralitycs==8.3.40
+5) pip install tensorflow
+6) https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb#scrollTo=EbP4_4C8fc0R
+7) scarica data.yaml e best. pt dal colab ed inserirli sulla cartella del progetto;
+8) In data yaml inserire i percorsi ASSOLUTI.
+9) https://medium.com/@mahijain9211/comprehensive-guide-to-real-time-car-license-plate-detection-with-yolo-bt-ee9aa4bd9913
